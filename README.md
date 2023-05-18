@@ -49,7 +49,7 @@ Using CTEs, then I used those columns to create new ratios such as Humans per Bl
 ![Tree SQL](https://github.com/ejohnson203/NYC-Trees/assets/126115876/13fc2248-8e48-40f3-abd5-44c88d26b810)
 
 ## Research Questions & Findings
-### [Slide Deck](https://docs.google.com/presentation/d/1BTHPcIO9yIXSr6-tMOrIfpkWUPi4U1P9G56NS2iJShU/edit?usp=sharing)
+### [Slide Deck]([https://docs.google.com/presentation/d/1BTHPcIO9yIXSr6-tMOrIfpkWUPi4U1P9G56NS2iJShU/edit?usp=sharing](https://docs.google.com/presentation/d/e/2PACX-1vRejg09MrBURN13gJpP3UdvIxNK7RP1DyYsoxI20Y3j_S48Z7jln80bG297b60SUyJyoYeaJtlP7iuO/pub?start=true&loop=false&delayms=3000))
 
 #### 1. Can we map inequality by counting trees?
 Sort of. Low income is associated with higher human-to-tree ratio for all boroughs except Manhattan
