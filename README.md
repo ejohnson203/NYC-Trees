@@ -56,6 +56,6 @@ Sort of. Low income is associated with higher human-to-tree ratio for all boroug
 #### 2. What Locations need more street trees?
 Bronx, Brooklyn and Manhattan are the main borough who needs trees. 
 <br> See Locations on Map
-<br> ![Capture](https://user-images.githubusercontent.com/105595931/208744346-a4d23842-8cd9-423b-8887-a36cdae3df0f.JPG)
+<br> ![Tree Map](https://github.com/ejohnson203/NYC-Trees/assets/126115876/f945c52c-d887-40f3-b135-98d427a51ba4)
 #### 3. How can street tree equity improve?
 MillionTrees Project but with a focus on street trees!
