@@ -46,7 +46,9 @@ Trees Categories Kept in 1995: Alive
 Using SQL, I joined the income, population and land size data with the clean 2015 tree census table. 
 Using CTEs, then I used those columns to create new ratios such as Humans per Block, Trees per Block and Human to Trees. 
 <br>
-![Tree SQL](https://github.com/ejohnson203/NYC-Trees/assets/126115876/13fc2248-8e48-40f3-abd5-44c88d26b810)
+![image](https://github.com/ejohnson203/NYC-Trees/assets/126115876/d4df024d-faa2-4e99-a272-4d6cd66006fd)
+
+
 
 ## Research Questions & Findings
 ### [Slide Deck]([https://docs.google.com/presentation/d/1BTHPcIO9yIXSr6-tMOrIfpkWUPi4U1P9G56NS2iJShU/edit?usp=sharing](https://docs.google.com/presentation/d/e/2PACX-1vRejg09MrBURN13gJpP3UdvIxNK7RP1DyYsoxI20Y3j_S48Z7jln80bG297b60SUyJyoYeaJtlP7iuO/pub?start=true&loop=false&delayms=3000))
@@ -56,6 +58,6 @@ Sort of. Low income is associated with higher human-to-tree ratio for all boroug
 #### 2. What Locations need more street trees?
 Bronx, Brooklyn and Manhattan are the main borough who needs trees. 
 <br> See Locations on Map
-<br> ![Tree Map](https://github.com/ejohnson203/NYC-Trees/assets/126115876/f945c52c-d887-40f3-b135-98d427a51ba4)
+<br> ![image](https://github.com/ejohnson203/NYC-Trees/assets/126115876/0a062707-b6ee-49cb-8677-440a29aed711)
 #### 3. How can street tree equity improve?
 MillionTrees Project but with a focus on street trees!
